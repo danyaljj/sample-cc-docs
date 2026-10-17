@@ -1,0 +1,33 @@
+Ixa taldea | Euskal Herriko Unibertsitatea
+Skip to main content
+Ixa taldea
+Euskal Herriko Unibertsitatea
+Search form
+Search
+Languages
+Euskara
+English
+[Private]
+You are here
+Home » Overview of the ELE Project
+Who we are
+Home
+About us
+Members
+What we do
+Research lines
+Publications
+Patents
+Projects & contracts
+Spin-off company
+Organized events
+Doctoral programme
+Official master
+Continuous training
+Others
+Prizes
+Press clipings
+For students
+Contact
+bibtex katea:
+@InProceedings{ author = {Itziar Aldabe and Jane Dunne and Aritz Farwell and Owen Gallagher and Federico Gaspari and Maria Giagkou and Jan Hajic and Jens Peter Kückens and Teresa Lynn and Georg Rehm and German Rigau and Katrin Marheinecke and Stelios Piperidis and Natalia Resende and Tea Vojtěchová and Andy Way}, title = {Overview of the ELE Project}, booktitle = {Proceedings of the 23rd Annual Conference of the European Association for Machine Translation, p. 353–354}, year = {2022} }

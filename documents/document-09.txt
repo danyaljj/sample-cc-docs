@@ -1,0 +1,234 @@
+FS#214 : Failed to parse command-line option in Debian
+POV-Ray
+Login!
+Remember me
+Lost password?
+Overview
+Tasklist
+All Projects POV-Ray
+Switch
+Show Task #
+The Persistence of Vision Raytracer (POV-Ray).
+This is the legacy Bug Tracking System for the POV-Ray project. Bugs listed here are being migrated to our github issue tracker. Please refer to that for new reports or updates to existing ones on this system.
+Attached to Project: POV-Ray
+Opened by Timo Poikola - 2011-07-13
+Last edited by William F Pokorny - 2016-10-19
+FS#214 - Failed to parse command-line option in Debian
+I tried to use 3.7 RC3. This was my first time with 3.7.
+I got source, configured and compiled it and installed into Debian with checkinstall. And then I tried to use it. First run was with -benchmark (it took about 9 minutes, ok). Then I tried very simple scene:
+rekcahx@oah:~/pov$ povray +Iaa.pov
+povray: This is a RELEASE CANDIDATE version of POV-Ray. General distribution is discouraged.
+Failed to parse command-line option
+I tried to debug with strace:
+rekcahx@oah:~/pov$ strace -o debug.strace povray +Iaa.pov
+povray: This is a RELEASE CANDIDATE version of POV-Ray. General distribution is discouraged.
+Persistence of Vision™ Ray Tracer Version 3.7.0.RC3 (g++ 4.6.1 @
+x86_64-unknown-linux-gnu)
+This is a release candidate of POV-Ray version 3.7.0.
+General distribution is strongly discouraged.
+POV-Ray is based on DKBTrace 2.12 by David K. Buck & Aaron A. Collins
+Copyright 1991-2003 Persistence of Vision Team
+Copyright 2003-2011 Persistence of Vision Raytracer Pty. Ltd.
+Primary POV-Ray 3.7 Architects/Developers: (Alphabetically)
+Chris Cason         Thorsten Froehlich  Christoph Lipka
+With Assistance From: (Alphabetically)
+Nicolas Calimet     James Holsenback    Christoph Hormann   Nathan Kopp       
+Juha Nieminen
+Past Contributors: (Alphabetically)
+Steve Anger         Eric Barish         Dieter Bayer        David K. Buck     
+Nicolas Calimet     Chris Cason         Aaron A. Collins    Chris Dailey      
+Steve Demlow        Andreas Dilger      Alexander Enzmann   Dan Farmer        
+Thorsten Froehlich  Mark Gordon         James Holsenback    Christoph Hormann 
+Mike Hough          Chris Huff          Kari Kivisalo       Nathan Kopp       
+Lutz Kretzschmar    Christoph Lipka     Jochen Lippert      Pascal Massimino  
+Jim McElhiney       Douglas Muir        Juha Nieminen       Ron Parker        
+Bill Pulver         Eduard Schwan       Wlodzimierz Skiba   Robert Skinner    
+Yvo Smellenbergh    Zsolt Szalavari     Scott Taylor        Massimo Valentini 
+Timothy Wegner      Drew Wells          Chris Young
+Other contributors are listed in the documentation.
+Support libraries used by POV-Ray:
+ZLib 1.2.3.4, Copyright 1995-1998 Jean-loup Gailly and Mark Adler
+LibPNG 1.2.44, Copyright 1998-2002 Glenn Randers-Pehrson
+LibJPEG 62, Copyright 1998 Thomas G. Lane
+LibTIFF 3.9.5, Copyright 1988-1997 Sam Leffler, 1991-1997 SGI
+Boost 1.46, http://www.boost.org/
+OpenEXR, Copyright (c) 2004-2007, Industrial Light & Magic.
+Parser Options
+Input file: aa.pov
+Remove bounds........On 
+Split unions.........Off
+Library paths:
+  /usr/share/povray
+  /usr/share/povray/ini
+  /usr/share/povray/include
+Clock value:    0.000  (Animation off)
+Image Output Options
+Image resolution.....320 by 240 (rows 1 to 240, columns 1 to 320).
+Output file..........aa.png, 24 bpp PNG
+Dithering............Off
+Graphic display......Off
+Mosaic preview.......Off
+Continued trace......Off
+Information Output Options
+All Streams to console..........On 
+Debug Stream to console.........On 
+Fatal Stream to console.........On 
+Render Stream to console........On 
+Statistics Stream to console....On 
+Warning Stream to console.......On
+[Parsing...]
+Parse Warning: This scene did not contain a #version directive. Please be aware
+that as of POV-Ray 3.7, unless already specified via an INI option, a #version
+is expected as the first declaration in a scene file. POV-Ray may apply
+settings to some features that are intended to maintain compatibility with
+pre-3.7 scenes. You are strongly encouraged to add a #version statement to the
+scene to make your intent clear. Future versions of POV-Ray may make the
+presence of a #version statement mandatory.
+Parser Statistics
+Finite Objects: 1
+Infinite Objects: 0
+Light Sources: 1
+Total: 2
+Parser Time
+Parse Time:       0 hours  0 minutes  0 seconds (0.001 seconds)
+            using 1 thread(s) with 0.000 CPU-seconds total
+Bounding Time:    0 hours  0 minutes  0 seconds (0.000 seconds)
+            using 1 thread(s) with 0.000 CPU-seconds total
+—————————————————————————-
+Render Options
+Quality:  9
+Bounding boxes.......On   Bounding threshold: 3
+Antialiasing.........Off
+[Rendering...]
+Rendered 76800 of 76800 pixels (100%)
+Render Statistics
+Image Resolution 320 x 240
+Pixels: 76800 Samples: 0 Smpls/Pxl: 0.00
+Rays: 76800 Saved: 0 Max Level: 1/5
+Ray→Shape Intersection Tests Succeeded Percentage
+Box 78226 1426 1.82
+Shadow Ray Tests: 1426 Succeeded: 0
+Render Time:
+Photon Time:      No photons
+Radiosity Time:   No radiosity
+Trace Time:       0 hours  0 minutes  0 seconds (0.016 seconds)
+            using 4 thread(s) with 0.036 CPU-seconds total
+POV-Ray finished
+—
+Every now and then all other command line options than –version, -version, -V, –help, -help -h, -?, –benchmark and –benchmark without leading strace in command line produces “Faild to parse command-line option” error.
+My system: ebian GNU/Linux unstable (sid), quadcore AMD Phenom 2.6 GHz, 8GB ram.
+Povray:
+rekcahx@oah:~/pov$ povray –version
+povray: This is a RELEASE CANDIDATE version of POV-Ray. General distribution is discouraged.
+POV-Ray 3.7.0.RC3
+This is a release candidate of POV-Ray version 3.7.0.
+General distribution is strongly discouraged.
+Copyright 1991-2003 Persistence of Vision Team
+Copyright 2003-2011 Persistence of Vision Raytracer Pty. Ltd.
+Built-in features:
+I/O restrictions:          disabled
+X Window display:          enabled (using SDL)
+Supported image formats:   gif tga iff ppm pgm hdr png jpeg tiff openexr
+Unsupported image formats: -
+Compilation settings:
+Build architecture:  x86_64-unknown-linux-gnu
+Built/Optimized for: x86_64-unknown-linux-gnu (using -march=native)
+Compiler vendor:     gnu
+Compiler version:    g++ 4.6.1
+Compiler flags:      -pipe -Wno-multichar -Wno-write-strings -fno-enforce-eh-specs -s -O3 -ffast-math -march=native -pthread
+Closed by William F Pokorny
+Wednesday, 19 October 2016, 12:12 GMT
+Reason for closing: Fixed
+Additional comments about closing:
+For the remaining documentation issue see the inbuilt documentation newsgroup thread:
+http://news .povray.org/povray.documentation.inbuilt /message/<58075f7b%241%40news.pov ray.org>
+Comments (10)
+Related Tasks (0/0)
+Grimbert Jérôme commented on Thursday, 14 July 2011, 14:58 GMT
+fs#194 might be in the way (+IM(int) get moved to +MI(int) to avoid interference with +I(file) )
+Also, have you checked if a previous installation of 3.7 might have already been performed ?
+(the system INI files, as well as the user INI files might have changed before 3.7RC3 and not be compatible)
+(benchmark ignore the user's INI files, and I even wonder if it ignore also the system INI files)
+Is the debian system using SELinux or plain old permissions ?
+User's INI files are ~/.povray/3.7/povray.conf ~/.povray/3.7/povray.ini
+System's INI files are in /usr/local/share/povray-3.7/ini/povray.ini
+Can you read them ?
+Timo Poikola commented on Thursday, 14 July 2011, 17:06 GMT
+I think that fs#194 is not problem in this case. Behaviour is not dependent on existence of +I or input filename.
+SELinux is disabled in my system, so only old permission scheme is used.
+User's INI files and system's INI files are readable by user and them are installed from this 3.7 RC3 source.
+As I can see, all options from povray-3.7.0.RC3/vfe/unix/unixoptions.cpp works well. All other command line arguments works only if povray is called by strace or su -c. This is short list of my observations:
+strace -o foo povray aa.pov (works)
+su rekcahx -c 'povray aa.pov' (works)
+povray aa.pov (doesn't work)
+povray –help (works)
+strace -o foo povray –help (works)
+strace -o foo povray +Iaa.pov (works)
+povray +Iaa.pov (doesn't work)
+povray skene-test.pov (doesn't work)
+strace -o foo povray skene-test.pov (works)
+Grimbert Jérôme commented on Thursday, 14 July 2011, 20:04 GMT
+Could it be some conflicts on some shared libraries ?
+maybe su/strace preloads some (or clear your environment)
+Could you do a check with "ldd /usr/local/bin/povray" ?
+what is your shell ? ($SHELL)
+Can you create a fresh account (like user guest_povray) and tests under that login ? (without installation of the ~/.povray/3.7/*, of course)
+(do not copy any .profile/.bashrc/whatever from your user to that new one)
+Is /tmp available ? (writable & readable)
+Can you check there is no empty line and that the last line is complete (with a carriage/linefeed) in all the configuration files (system & user's) ?
+Are these files in DOS or UNIX format ? Is there any out-of-ascii character in them (so they are either in utf-8 or latin... )
+(it's easy to see with vim/gvim (:set), the command 'file' can also be handy, even if it try to guess more)
+Timo Poikola commented on Thursday, 14 July 2011, 21:24 GMT
+Uhm, case closed. I found a solution.
+My previous povray installation in this machine was 3.6. And to preventing semitransparent preview window I added alias to .bashrc:
+alias povray='povray -visual DirectColor'
+This alias seems to be unneeded with 3.7 and actually it interfered 3.7's command line parser.
+Maybe more verbose error message would be better solution for situation like this. "Unknown option: -visual" or "Unknown arguments: -visual DirectColor" instead of "Failed to parse command-line".
+Thanks.
+Jim Holsenback commented on Thursday, 14 July 2011, 23:57 GMT
+don't know if this is any consolation but it did get mentioned in the documentation
+Understanding POV-Ray Options
+Grimbert Jérôme commented on Friday, 15 July 2011, 08:07 GMT
+If the last link (wiki of Povray option) is supposed to be accurate, it does not apply to 3.7.
+-geometry fails
+-help provides the povray help
+-icon try to render the con (con.pov) file
+-title fails
+-visual fails
+-display fails too
+(the environment variable DISPLAY is honored, no need for a -display; other options are taken away by SDL)
+Grimbert Jérôme commented on Friday, 15 July 2011, 08:28 GMT
+Anyway, #5460 to dump the actual command line in case of error for parsing the command line option on unix.
+Admin
+Chris Cason commented on Friday, 26 August 2011, 02:35 GMT
+With respect to the switches that refer to X-windows options (-geometry, -title, -visual etc), if my memory serves me correctly (keep in mind it's been 20 years since I've done any serious X application coding) X has some code that pre-parses arguments and removes any that it considers 'belong' to it (and actions them). Thus, programs written to work with X don't have to worry about the implementation of any X-specific command-line options (and new ones can be added without changing the program).
+Hence if X is not enabled, the above options get passed through to POV, which of course doesn't understand them. On the other hand, if X is enabled and POV-Ray gets to see -geometry or other similar options, then something isn't being done correctly since they should never get as far as our command-line parser.
+Admin
+Christoph Lipka commented on Friday, 09 December 2011, 00:07 GMT
+What's the current status? Do we still need to do anything about this error?
+Grimbert Jérôme commented on Friday, 09 December 2011, 09:28 GMT
+From my point of view, the original issue is closed (as now with #5460, the offending line would be dumped, the detection of forgotten alias or magic macro should be trivial).
+The part about the Wiki of Unix options is still open: 3.7 use the SDL library, which does not intercept the X11 setting. so -display, -icon and so on are not supported. Supported specific options are in the unix specific source file (from memory: –help, –version; and their shortcuts).
+-display and al. were supported at least in 3.1, and that was before SDL library. I do not know when the change occured (3.5, 3.6, or 3.7).
+Tasks related to this task (0)
+Remove
+Duplicate tasks of this task (0)
+Loading...
+Keyboard shortcuts
+Available keyboard shortcuts
+SHIFT+ALT+l Login Dialog / Logout
+SHIFT+ALT+a Add new task
+SHIFT+ALT+m My searches
+SHIFT+ALT+t focus taskid search
+Tasklist
+o open selected task
+j move cursor down
+k move cursor up
+Task Details
+n Next task
+p Previous task
+SHIFT+ALT+e ENTER Edit this task
+SHIFT+ALT+y Close Task
+Task Editing
+SHIFT+ALT+s save task
+powered by Flyspray

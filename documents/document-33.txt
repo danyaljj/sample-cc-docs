@@ -1,0 +1,29 @@
+Busqueda de Licitaciones
+Junta Castilla La Mancha
+Menú de navegación
+Licitaciones
+Búsqueda Licitaciones
+Ver Todas
+Ayuda
+Instrucciones de Contratación de Entes Públicos
+Búsqueda de Licitaciones
+Organismo : -- todos -- Agencia del Agua Consejería de Agricultura Consejería de Educación, Cultura y Deportes Consejería de Empleo y Economía Consejería de Fomento Consejería de Hacienda Consejería de Presidencia y Administraciones Públicas Consejería de Sanidad y Asuntos Sociales Empresas Públicas Fundación Pública Grupo RTVCM Instituto de la Mujer Castilla La Mancha Otros Entes Públicos SEPECAM SESCAM Sin tipo de organismo
+Objeto :
+Nº Expediente :
+Importe de la Licitación:
+€ a € formato ###.###.###,##
+Fecha Publicación : Desde Hasta
+Tipo de Procedimiento : Seleccione una opción Abierto Negociado sin publicidad Negociado con Publicidad Restringido Dialogo Competitivo
+Tipo de Contrato : Seleccione una opción Servicios Colaboración entre sector publico y sector privado Obras Suministros Gestión de Servicio Público Privado Administrativos Especiales Concesión de Obra Pública
+Estado :
+En plazo de licitación Pendiente de Adjudicación
+Archivado no publicado Anuncio previo
+Desierto Anulado
+Adjudicado Formalización
+Adjudicado Negociado Sin Publicidad Renuncia/Desistimiento
+Ajudicado Parcial
+W3C-WAII
+Aviso Legal
+Protección de Datos
+Accesibilidad
+Certificación

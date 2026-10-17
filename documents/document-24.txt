@@ -1,0 +1,91 @@
+About – Mineralogical & Geological Museum
+Skip to main content
+Utility Menu
+Search
+HARVARD.EDU
+Mineralogical & Geological Museum
+Search
+HOME
+Collections
+Areas of the Collection
+Mineral and Gem Collection
+Rock and Ore Collecion
+Meteorite Collection
+EPS Teaching Collection
+Request Material
+Analytical Sampling
+Image Requests
+Loan Requests
+Search the Collection
+Exhibitions
+Give
+People
+About
+History
+Careers
+Frequently Asked Questions
+Collections Menu
+Collections
+Categories
+Exhibitions
+Geography
+Shared My Collections
+About
+Advanced Search
+Sign on
+Advanced Search
+About
+Home
+About
+Browsing the Online Collection
+There are a few ways to browse the Online Collection:
+Homepage/Collections
+On the homepage, you can browse curated selections from our collection.
+Categories Page
+On the categories page, you can view objects by type.
+Exhibitions Page
+On the exhibitions page, you can browse current, past and upcoming exhibitions, as well as the artworks from each exhibition.
+Public Collections
+On the public collections page, you can browse user-created collections. You can add your own collections to community collections by registering on the site and creating collections that are marked "public".
+Thesaurus and Terms
+On the thesaurus page, you can browse structured vocabularies to find objects with specific keywords. You can also see these terms when viewing a search result in detail. Click on these terms to browse other objects linked to this term.
+Searching the Online Collection
+Quick Search/Advanced Search
+Enter keywords or names in the search box (Quick Search) to find objects or other records in our collection. To search on specific criteria, you can use the advanced search to search within certain data fields. You can search using multiple criteria, such as the term "portrait" in the title + a date range of "1800-1900". If you are not getting any results with advanced search, try broadening your search by removing criteria.
+Search Tips
+You can use an * (asterisk) as a wildcard in searches, to match partial terms (e.g. draw* will return results for draw, drawn, drawings, etc.)
+Use quotation marks to get more exact results - e.g. John Doe will return any results with John or Doe, but "John Doe" will return results with this exact phrase.
+Viewing Search Results
+Types of Results
+There are different types of search results, such as object records and people records. When there is more than one type of result, you can click on these different tabs to view different types of records.
+GRID/LIST VIEWS
+You can view a set of results in an image grid or list view. Use the dropdown to switch between different types of views.
+Filter Panel
+You can refine a result set by opening the filter panel and using filters to narrow down results. For example, you can filter to see only works that have images within any result set. You can also clear each filter to revert to a larger result set, or clear all filters to get to your original result set.
+Collect Panel
+Once you've registered an account on the site, you can create your own collection sets and add artworks to them. You can multi-select artworks on each page by clicking the symbol, and this will open the collect panel. Click the "add" button to choose which collection to add the selected objects. You can also drag images into each collection set to add artworks.
+Info Panel
+The info panel, when available, contains additional information related to a search or set of objects.
+Images
+Why is an image shown as not available?
+An image may be shown as not available if it is not yet available in our database, or if it cannot be displayed for copyright reasons.
+Thesaurus
+What is the Thesaurus Page?
+The Thesaurus page allows you to browse the online collection through linked keywords. Objects in the collection are linked to terms from The Getty Vocabularies and other authorities, which contain structured terminology for art and archival collections.
+How Do I Browse Using the Thesaurus?
+To select a thesaurus, click the dropdown for more options. In the thesaurus tree view, you can expand or collapse levels by clicking the triangle symbol. Clicking on any term in the tree will show a preview of objects in the collection which are associated with the term. To view all objects with this term as a search result, click the "View all" button in the right panel.
+You can also click on terms in the detail view, which will jump to the associated branch in the thesaurus and show you other objects with this term.
+My Collections
+What Are My Collections?
+My Collections allows you to create your own collections from the artworks available on this site. You can share your collections with others, or create groups of artworks for your own viewing (My Collections are private by default).
+You can optionally add a description for each collection set, or add notes to individual artworks.
+How Do I Use My Collections?
+To use My Collections, you must first register an account. Once you have completed registration, you can start creating collection sets and adding artworks to them. You can add artworks to your collection set by clicking on the star symbol while viewing objects, and selecting which collection set to add the artwork(s). You can also open the Collect Panel and drag images into the collections you've created.
+How Do I Share a Collection With Someone Else?
+If you mark your collection set public, this collection will be visible to others in the "Community Collections" section. The option to mark a collection as public is available when you edit your collection.
+You can also view your collection set and copy the url link to share these objects with others. You can view your collection sets by logging in and going to the "My Collections" page or by opening the Collect panel.
+Privacy Statement
+Rights and Permissions
+Admin Login
+OpenScholar
+Copyright © 2017 The President and Fellows of Harvard College | Accessibility | Report Copyright Infringement

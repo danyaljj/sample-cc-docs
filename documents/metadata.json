@@ -1,0 +1,705 @@
+{
+  "sampling": "100 unique-URL documents selected without content filtering from complete records in the first 2 MiB of one randomly selected WET archive. Includes all previously sampled documents. Not a uniform sample of Common Crawl.",
+  "documents": [
+    {
+      "file": "document-01.txt",
+      "url": "http://bj1188.com/contact.php",
+      "date": "2025-07-20T03:27:20Z",
+      "bytes": 1445,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-02.txt",
+      "url": "http://2335499519.x.yupoo.com/categories/547736?isSubCate=true",
+      "date": "2025-07-20T03:08:58Z",
+      "bytes": 2963,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-03.txt",
+      "url": "http://forum.dog.bg/index.php?app=core&module=global&section=register&s=0c236500567428263aece9744ec18fc0",
+      "date": "2025-07-20T03:28:30Z",
+      "bytes": 15391,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-04.txt",
+      "url": "http://levelupgazette.com/tag/galactic-empire/",
+      "date": "2025-07-20T03:11:26Z",
+      "bytes": 1507,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-05.txt",
+      "url": "http://bacakllc.com/6410648894.htm",
+      "date": "2025-07-20T02:34:35Z",
+      "bytes": 7627,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-06.txt",
+      "url": "http://batteriselskab.dk/tag/purchase",
+      "date": "2025-07-20T03:55:31Z",
+      "bytes": 5177,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-07.txt",
+      "url": "http://360radio.info/index-2799.html",
+      "date": "2025-07-20T03:25:45Z",
+      "bytes": 8958,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-08.txt",
+      "url": "http://edpya.hetongkeji168.com/a/245203575.html",
+      "date": "2025-07-20T03:48:33Z",
+      "bytes": 22,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-09.txt",
+      "url": "http://bugs.povray.org/index.php?do=details&task_id=214&opened=62&status%5B0%5D=&order=status&sort=asc&order2=category&sort2=asc",
+      "date": "2025-07-20T04:02:37Z",
+      "bytes": 12720,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-10.txt",
+      "url": "http://m.rengyou.cn/SonList-853994.html",
+      "date": "2025-07-20T02:38:41Z",
+      "bytes": 5949,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-11.txt",
+      "url": "http://intl-bocai.com/news-20250412-1528-4989",
+      "date": "2025-07-20T02:36:42Z",
+      "bytes": 5201,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-12.txt",
+      "url": "http://blog.seanbusher.com/2013/11/gallery-twenty-two-showcases-gmo-corn/",
+      "date": "2025-07-20T04:22:06Z",
+      "bytes": 2772,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-13.txt",
+      "url": "http://altohumano.com/archives/1687",
+      "date": "2025-07-20T04:05:22Z",
+      "bytes": 6577,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-14.txt",
+      "url": "http://animalforteana.blogspot.com/2011/02/alienviews-anthropomorphisms.html",
+      "date": "2025-07-20T03:32:12Z",
+      "bytes": 7981,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-15.txt",
+      "url": "http://myaudiolib.ru/dashkova-ekaterina-romanovna/zapiski-knyagini-e-r-dashkovoy/5958",
+      "date": "2025-07-20T03:19:20Z",
+      "bytes": 3397,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "url": "http://maratonc.si/?p=2727",
+      "date": "2025-07-20T03:38:55Z",
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz",
+      "bytes": 81,
+      "file": "document-16.txt"
+    },
+    {
+      "file": "document-17.txt",
+      "url": "http://2ch-dc.net/v9/index.php?res=5082",
+      "date": "2025-07-20T03:57:52Z",
+      "bytes": 956,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-18.txt",
+      "url": "http://bibliotecavirtual.dgb.umich.mx:8083/jspui/browse?type=author&value=S%C3%A1nchez+Garc%C3%ADa%2C+Juan+Manuel&value_lang=",
+      "date": "2025-07-20T03:39:07Z",
+      "bytes": 1159,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-19.txt",
+      "url": "http://1765696.tgtk21.com/?PUT=a_show&AID=152344&FID=1765696&R2=&CHANNEL=",
+      "date": "2025-07-20T03:33:08Z",
+      "bytes": 12632,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-20.txt",
+      "url": "http://bdtic.com/download/linear/LT1964_1201_Mag.pdf",
+      "date": "2025-07-20T03:42:16Z",
+      "bytes": 1051,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-21.txt",
+      "url": "http://fluka-fluka.ir/index.php?start=27",
+      "date": "2025-07-20T03:24:29Z",
+      "bytes": 19400,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-22.txt",
+      "url": "http://hrwiki.org/w/index.php?title=Special:UserLogin&returnto=User:Noneoftheaboveorbelow",
+      "date": "2025-07-20T02:44:22Z",
+      "bytes": 1147,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-23.txt",
+      "url": "http://magie-illusion.net/index.php?page=theme&theme_id=1037",
+      "date": "2025-07-20T04:11:09Z",
+      "bytes": 2508,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-24.txt",
+      "url": "http://minecat.rc.fas.harvard.edu/about;jsessionid=C4964BEFCAD9C9016BF46DFEA07EDC63",
+      "date": "2025-07-20T04:57:09Z",
+      "bytes": 5957,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-25.txt",
+      "url": "http://51239.645g.top/news/0951e299902.html",
+      "date": "2025-07-20T03:09:47Z",
+      "bytes": 3485,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-26.txt",
+      "url": "http://auditstudies.com/",
+      "date": "2025-07-20T03:31:46Z",
+      "bytes": 3089,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-27.txt",
+      "url": "http://football-2ch.com/archives/54762598.html",
+      "date": "2025-07-20T02:54:00Z",
+      "bytes": 39351,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-28.txt",
+      "url": "http://modae.it/marta_designer.html",
+      "date": "2025-07-20T03:00:33Z",
+      "bytes": 4264,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-29.txt",
+      "url": "http://forum.kt.kg/index.php/forum/8-%D0%BE%D0%B1%D1%89%D0%B8%D0%B9/?s=6ace58bec66d20812f3868ee8c0a480b",
+      "date": "2025-07-20T03:52:44Z",
+      "bytes": 3633,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-30.txt",
+      "url": "http://n12.osaka23.net/kamagaya/",
+      "date": "2025-07-20T02:47:58Z",
+      "bytes": 7294,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-31.txt",
+      "url": "http://go.captcoder.com/?rb.routing.mode=proxy&rb.routing.signature=784389",
+      "date": "2025-07-20T02:25:37Z",
+      "bytes": 66,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-32.txt",
+      "url": "http://gjerulf.com/tag/terracotta/",
+      "date": "2025-07-20T03:39:33Z",
+      "bytes": 3389,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-33.txt",
+      "url": "http://appeconomia3.jccm.es/perfilcontratante/busqueda/BusquedaLicitacionesDefault!execute.action;jsessionid=A7D086AF0A6DB84A086671936EEF0752?d-16544-s=4&amp;idLicitacion=2051&amp;idLicitacion=2051&amp;d-16544-p=8&amp;d-16544-o=2&d-16544-o=1&amp;amp;visualizar=0&d-16544-p=1&amp;viewAll=1&amp;viewAll=1&amp;amp;viewAll=1&amp;visualizar=0&amp;visualizar=0&visualizar=0&idLicitacion=2051&idLicitacion=2051&primerRadio=-1",
+      "date": "2025-07-20T03:48:43Z",
+      "bytes": 1403,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-34.txt",
+      "url": "http://business.times-online.com/times-online/article/bizwire-2024-10-15-nrg-energy-inc-announces-exchange-offer-and-consent-solicitation-for-any-and-all-of-apx-group-incs-outstanding-575-senior-notes-due-2029",
+      "date": "2025-07-20T02:38:20Z",
+      "bytes": 10054,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-35.txt",
+      "url": "http://altamiz.com/",
+      "date": "2025-07-20T02:23:25Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-36.txt",
+      "url": "http://cjmf2wj.uihpqa.cn/?2767586.html?liling1abdkcl433804",
+      "date": "2025-07-20T02:57:57Z",
+      "bytes": 4447,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-37.txt",
+      "url": "http://jszy.whu.edu.cn/zhouxiang1/zh_CN/zzcg/218528/list/index.htm",
+      "date": "2025-07-20T02:42:59Z",
+      "bytes": 1110,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-38.txt",
+      "url": "http://cse.google.ca/url?sa=i&url=https://pensiuneacoral.ro/fr.php?cid=30%26kys=doudoune+femme+pas+cher+zara%26g=9",
+      "date": "2025-07-20T03:50:37Z",
+      "bytes": 230,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-39.txt",
+      "url": "http://lecheileetns.com/6th-class-business-enterprise-project/1189c45d-e131-4812-9db2-bbf7b14d26df/",
+      "date": "2025-07-20T03:40:02Z",
+      "bytes": 4092,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-40.txt",
+      "url": "http://big5.china.com.cn/gate/big5/finance.china.com.cn/stock/pmkx/20150312/2998547.shtml",
+      "date": "2025-07-20T03:09:42Z",
+      "bytes": 5115,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-41.txt",
+      "url": "http://58775.6axi.top/html/99f099900.html",
+      "date": "2025-07-20T03:30:43Z",
+      "bytes": 3681,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-42.txt",
+      "url": "http://i-potraviny.cz/",
+      "date": "2025-07-20T04:14:08Z",
+      "bytes": 1657,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-43.txt",
+      "url": "http://deviator.si/2007/03/15/cycled_aoteaora_07/?p=9&t=19",
+      "date": "2025-07-20T03:45:42Z",
+      "bytes": 998,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-44.txt",
+      "url": "http://m.83421946.cn/NewsView.Asp?ID=409",
+      "date": "2025-07-20T03:27:31Z",
+      "bytes": 6466,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-45.txt",
+      "url": "http://eden.gley.net/index.php?sid=81adab58016de0efa5146c8cf91c6376",
+      "date": "2025-07-20T02:43:27Z",
+      "bytes": 857,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-46.txt",
+      "url": "http://es.588bm.cn/jianzhi/",
+      "date": "2025-07-20T03:05:28Z",
+      "bytes": 2475,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-47.txt",
+      "url": "http://frontrowmac.com/video/17506394255907.html",
+      "date": "2025-07-20T02:32:53Z",
+      "bytes": 5570,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-48.txt",
+      "url": "http://forum.anarchiste.free.fr/viewtopic.php?f=2&t=11574&sid=2dc78a8dcf86ce863702bcb9ac413bc7&p=172955",
+      "date": "2025-07-20T02:43:28Z",
+      "bytes": 2191,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-49.txt",
+      "url": "http://iranboom.com/jashnha/78-dei.html",
+      "date": "2025-07-20T03:41:24Z",
+      "bytes": 5560,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-50.txt",
+      "url": "http://blogs.powercode.id/review-lengkap-camera-cctv-hikvision-ds-2cd113/",
+      "date": "2025-07-20T02:21:23Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-51.txt",
+      "url": "http://ec2-34-192-190-211.compute-1.amazonaws.com/bradford-pa-florist/",
+      "date": "2025-07-20T03:01:57Z",
+      "bytes": 7322,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-52.txt",
+      "url": "http://kyokushin.shumenbg.com/center.php?w=25&s=91afc03668e59aedde5b77b539f56fc5&e=bg",
+      "date": "2025-07-20T03:38:15Z",
+      "bytes": 583,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-53.txt",
+      "url": "http://88388.27za.top/html/6855c699308.html",
+      "date": "2025-07-20T02:25:37Z",
+      "bytes": 4383,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-54.txt",
+      "url": "http://m.7212.top/html/18f199897.html",
+      "date": "2025-07-20T03:40:44Z",
+      "bytes": 285,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-55.txt",
+      "url": "http://catalogo.bacn.gov.py/opac_css/index.php?lvl=indexint_see&id=7899&main=0",
+      "date": "2025-07-20T03:23:24Z",
+      "bytes": 9933,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-56.txt",
+      "url": "http://llwzlhx.cn/Product/index/classid/122.html",
+      "date": "2025-07-20T02:32:47Z",
+      "bytes": 4963,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-57.txt",
+      "url": "http://arhivalije.nb.rs/index.php/informationobject/browse?sf_culture=en&view=card&names=494&sort=endDate&media=print&topLod=0",
+      "date": "2025-07-20T03:34:43Z",
+      "bytes": 2320,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-58.txt",
+      "url": "http://m.richmondfreepress.com/news/2018/aug/09/coalition-seeks-sainthood-5-african-americans/",
+      "date": "2025-07-20T03:49:29Z",
+      "bytes": 8765,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-59.txt",
+      "url": "http://m.haowan00.cn/pinggu?utm_content=index-banner-bottom2",
+      "date": "2025-07-20T02:30:26Z",
+      "bytes": 9791,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-60.txt",
+      "url": "http://58jxl.com/gongxu/detail/id/296.html",
+      "date": "2025-07-20T02:57:56Z",
+      "bytes": 31342,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-61.txt",
+      "url": "http://ithare.com/recent-software-jobs/?q=PHP+%28programmer+or+developer%29&sl=&sco=us&gct=17498677&gco=&gl=",
+      "date": "2025-07-20T02:47:58Z",
+      "bytes": 2128,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-62.txt",
+      "url": "http://kanamibijoux.com/",
+      "date": "2025-07-20T03:42:07Z",
+      "bytes": 49,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-63.txt",
+      "url": "http://csepel.info/?p=37496",
+      "date": "2025-07-20T03:56:06Z",
+      "bytes": 10687,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-64.txt",
+      "url": "http://erboristeriadellabasilica.com/te/te-postfermentati",
+      "date": "2025-07-20T04:11:44Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-65.txt",
+      "url": "http://bowmkt.com/",
+      "date": "2025-07-20T02:42:34Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-66.txt",
+      "url": "http://3982xz9.jinkefs.com/?3100693.html?jiangyouo6ldkcl446729.html",
+      "date": "2025-07-20T04:04:45Z",
+      "bytes": 4111,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-67.txt",
+      "url": "http://kickphotobooth.ca/en_mirror-photobooth.html",
+      "date": "2025-07-20T02:59:42Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-68.txt",
+      "url": "http://loanboutique.com/",
+      "date": "2025-07-20T03:58:46Z",
+      "bytes": 1373,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-69.txt",
+      "url": "http://globevalveindia.com/steam-valve.html",
+      "date": "2025-07-20T03:45:08Z",
+      "bytes": 3625,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-70.txt",
+      "url": "http://mobile-kaiyun-sport.com/news-20250420-0250-5888",
+      "date": "2025-07-20T03:42:49Z",
+      "bytes": 3158,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-71.txt",
+      "url": "http://grid.uhd.edu/forum/ucp.php?mode=privacy&sid=fafb3ad8ad4df37d70d52b7de0340368",
+      "date": "2025-07-20T04:34:09Z",
+      "bytes": 3726,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-72.txt",
+      "url": "http://camxiaomifb.nnov.org/sss/_nado_vospolzovatsya_transferom_na_vygodnyh_usloviyah_.html",
+      "date": "2025-07-20T04:19:29Z",
+      "bytes": 5704,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-73.txt",
+      "url": "http://d-card.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/",
+      "date": "2025-07-20T04:07:23Z",
+      "bytes": 4477,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-74.txt",
+      "url": "http://ja.cppreference.com/w/cpp/atomic/atomic_fetch_add.html",
+      "date": "2025-07-20T02:57:47Z",
+      "bytes": 8736,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-75.txt",
+      "url": "http://e-news.com.ua/show/337913.html",
+      "date": "2025-07-20T03:06:13Z",
+      "bytes": 12125,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-76.txt",
+      "url": "http://lifelovestory.com/bbs/login.php?id=people_1&page=10&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&s_url=%2Fbbs%2Fzboard.php%3Fid%3Dpeople_1%26page%3D10%26sn1%3D%26divpage%3D1%26sn%3Doff%26ss%3Don%26sc%3Don%26select_arrange%3Dheadnum%26desc%3Dasc%26no%3D1747%26PHPSESSID%3D593543d988a130132cca8913737bc29c&PHPSESSID=593543d988a130132cca8913737bc29c",
+      "date": "2025-07-20T02:49:43Z",
+      "bytes": 205,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-77.txt",
+      "url": "http://ctcgris.catas.cn/content-752.html",
+      "date": "2025-07-20T04:03:42Z",
+      "bytes": 5073,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-78.txt",
+      "url": "http://cimss.ssec.wisc.edu/clavrx/goesr_img/animate.php?imagesat=goes16&imagedate=2*6*42&imageinc=4&imagetype=sst&overtype=",
+      "date": "2025-07-20T04:32:41Z",
+      "bytes": 3340,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-79.txt",
+      "url": "http://cpa-shirai.jp/siryo/ca01/capter04_20103.html",
+      "date": "2025-07-20T03:28:49Z",
+      "bytes": 2299,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-80.txt",
+      "url": "http://m.nxuew.com/nt-e8923MzQ3NTg0NjE.html",
+      "date": "2025-07-20T04:20:27Z",
+      "bytes": 3117,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-81.txt",
+      "url": "http://m.thinkwand.com/article.html",
+      "date": "2025-07-20T04:01:08Z",
+      "bytes": 18206,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-82.txt",
+      "url": "http://ddobagi.co.kr/pe/board.php?board=agcmain&config=1&sort=ub_category2&sortorder=1&indexmany=1000&search=%C8%AE%C0%E5%B0%CB%BB%F6%B8%F0%B5%E5&shwhere=wideSearch&command=body&no=125&PHPSESSID=e23fffa6830f44f8783553cddbda10cf",
+      "date": "2025-07-20T02:38:06Z",
+      "bytes": 906,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-83.txt",
+      "url": "http://laorenshouji.com.cn/search.html?sear_key=",
+      "date": "2025-07-20T03:57:46Z",
+      "bytes": 2182,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-84.txt",
+      "url": "http://jenniferjdriscoll.com/tag/piyo/",
+      "date": "2025-07-20T03:44:28Z",
+      "bytes": 9964,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-85.txt",
+      "url": "http://alkfh.net/vb/calendar.php?s=436b89221c9c7d69a9c4a9ee131eb678&c=1&week=1544918400&do=displayweek&month=12",
+      "date": "2025-07-20T03:30:29Z",
+      "bytes": 81,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-86.txt",
+      "url": "http://downloads.tcscloud.de/Produkte/Aussenstationen/Serie_AVC/",
+      "date": "2025-07-20T02:43:12Z",
+      "bytes": 277,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-87.txt",
+      "url": "http://biz-comm.co.jp/date/2025/04",
+      "date": "2025-07-20T03:54:28Z",
+      "bytes": 1392,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-88.txt",
+      "url": "http://imr.cas.cn/dj/dw/zt_dj/jd100/zjzp_jd100/wz_jd100/202106/t20210623_6115987.html",
+      "date": "2025-07-20T03:45:23Z",
+      "bytes": 5721,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-89.txt",
+      "url": "http://1pc60o.cn/yansheng123-SonList-2453311/",
+      "date": "2025-07-20T03:29:44Z",
+      "bytes": 7002,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-90.txt",
+      "url": "http://great-tat.ru/sravnenie-metodov-rezki-listovogo-prokata-plazmennaya-i-lazernaya-tehnologii/",
+      "date": "2025-07-20T02:55:38Z",
+      "bytes": 15845,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-91.txt",
+      "url": "http://anhui400.com/join/",
+      "date": "2025-07-20T03:07:38Z",
+      "bytes": 1601,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-92.txt",
+      "url": "http://998608.com/html/vtvyvfezmx/",
+      "date": "2025-07-20T02:48:49Z",
+      "bytes": 286,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-93.txt",
+      "url": "http://kristinthurm.de/szybki-rozwoj-branzy-seo-w-naszym-kraju",
+      "date": "2025-07-20T03:13:09Z",
+      "bytes": 2555,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-94.txt",
+      "url": "http://cqjxcl.cn/tags-2015.html",
+      "date": "2025-07-20T02:42:29Z",
+      "bytes": 2459,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-95.txt",
+      "url": "http://lib.hanu.vn/contentbrowser.aspx?menuid=139&contentid=4189&catid=3000",
+      "date": "2025-07-20T04:01:47Z",
+      "bytes": 4757,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-96.txt",
+      "url": "http://biblioteca.juridicas.unam.mx:8991/F/21BL5V3RDMP4D5INNC45DCGY19YIFXPAKTI6UASHXIUX672BCD-12777?func=find-b-0&local_base=arr01",
+      "date": "2025-07-20T03:35:27Z",
+      "bytes": 711,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-97.txt",
+      "url": "http://ixa.si.ehu.eus/node/13708/bibtex?language=en",
+      "date": "2025-07-20T03:03:20Z",
+      "bytes": 959,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-98.txt",
+      "url": "http://bbs.06climate.com/home.php?mod=space&uid=128337&do=home&view=me&from=space",
+      "date": "2025-07-20T03:27:14Z",
+      "bytes": 1516,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-99.txt",
+      "url": "http://lemegaphone.asso.insa-rennes.fr/contentEmission.php?chrid=15&emid=89",
+      "date": "2025-07-20T02:40:17Z",
+      "bytes": 716,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    },
+    {
+      "file": "document-100.txt",
+      "url": "http://nakusou.zatunen.com/nursekyuujinn.html",
+      "date": "2025-07-20T04:07:29Z",
+      "bytes": 4720,
+      "archive": "crawl-data/CC-MAIN-2025-30/segments/1751906235433.80/wet/CC-MAIN-20250720021502-20250720051502-00495.warc.wet.gz"
+    }
+  ]
+}
